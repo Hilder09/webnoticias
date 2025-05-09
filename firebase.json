@@ -1,0 +1,6 @@
+{
+  "firestore": {
+    "rules": "Todos pueden leer noticias",
+    "indexes": "firestore.indexes.json"
+  }
+}
